@@ -26,4 +26,4 @@ In this project, we will make predictions of diamond prices based on their attri
 
 10.table width of top of diamond relative to widest point (43--95).
 
-
+Kaggle link for dataset:https://www.kaggle.com/competitions/shai-ml/data 
