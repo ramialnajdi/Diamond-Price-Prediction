@@ -2,7 +2,6 @@
 
 In this project, we will make predictions of diamond prices based on their attributes. We already have a dataset that contains diamond prices and some of their features and we will analyse the dataset and we will build machine learning model to predict diamond prices.
 
-## Diamond Price Dataset.
 
 ### This classic dataset contains the prices and other attributes of almost 54,000 diamonds. these attributes are:
 
@@ -26,10 +25,10 @@ In this project, we will make predictions of diamond prices based on their attri
 
 10.table width of top of diamond relative to widest point (43--95).
 
-## Diamond Price Project.
+### Diamond Price Project.
 
 1.the notebook file.
-
+Explane the code.
 2.CSV file contains train data.
 
 3.CSV file contains test data.
@@ -38,4 +37,5 @@ the test file contain only the features of diamond.
 4.sample_submission flie.
 
 Kaggle link for dataset:https://www.kaggle.com/competitions/shai-ml/data 
-my account on kaggle:https://www.kaggle.com/ramialnagdi
+
+My account on kaggle:https://www.kaggle.com/ramialnagdi
