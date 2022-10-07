@@ -28,11 +28,10 @@ In this project, we will make predictions of diamond prices based on their attri
 ### Diamond Price Project.
 
 1.the notebook file.
-Explane the code.
-2.CSV file contains train data.
 
-3.CSV file contains test data.
-the test file contain only the features of diamond.
+2.the train file contains the train data.
+
+3.the test file contains the test data(the test file contain only the features of diamond without target).
 
 4.sample_submission flie.
 
